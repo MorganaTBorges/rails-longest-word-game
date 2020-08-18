@@ -1,0 +1,22 @@
+ul {
+    list-style-type: none;
+    display: flex;
+}
+
+.letter-box {
+    padding: 10px;
+    background-color: #3498dc;
+    margin: 10px;
+    box-shadow: 2px 2px 4px gray;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    font-weight: bold;
+    width: 40px;
+    text-align: center;
+}
+
+
+body {
+    padding-top: 30px;
+}
+
